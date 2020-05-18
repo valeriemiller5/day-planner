@@ -1,1 +1,3 @@
 # day-planner
+
+> Simple day planner to record activities and To Do's throughout the day in scheduled hourly blocks.  Using Moment.js, the current day of the week and date appear at the top of the screen.  Schedule blocks are highlighted compared to the current time (past blocks are gray, current is yellow, future blocks are green).  Build with jQuery, Moment.js, Google Fonts, Sweetalerts2, Ionicons, with styling using Bulma CDN and CSS stylesheet.
